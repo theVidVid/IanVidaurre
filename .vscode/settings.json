@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'FiraCode-Retina', 'monospace', monospace, 'Hack'",
+    "editor.fontSize": 13,
+    "editor.cursorStyle": "underline",
+    "editor.wordWrapColumn": 79,
+    "editor.wordWrap": "wordWrapColumn"
+}

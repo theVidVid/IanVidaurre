@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Electron",
+		"editor.fontSize": 12,
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 79,
+		"git.ignoreLimitWarning": true
+	}
+}
